@@ -10,11 +10,11 @@
 | Location | JUD. BRAŞOV, MUN. BRAŞOV, BLD. GĂRII, NR.13A, CLĂDIREA NINE, ET.3 |
 | Website | [https://www.principal33.com](https://www.principal33.com) |
 | Careers | [https://www.principal33.com/careers](https://www.principal33.com/careers) |
-| Last Scraped | 2026-10-18 |
+| Last Scraped | 2026-10-19 |
 
-## Current Job Listings (6)
+## Current Job Listings (5)
 
-_Generated: 2026-10-18T10:05:31.034Z_
+_Generated: 2026-10-19T11:32:14.675Z_
 
 ### Data Engineer
 
@@ -45,14 +45,6 @@ _Generated: 2026-10-18T10:05:31.034Z_
 - **Work Mode:** hybrid
 - **Location:** Brasov, Cluj-Napoca, Târgu Mureș
 - **Tags:** onestream, finance, epm, tm1, sap, tagetik, adaptive, epm platforms
-- **Status:** scraped
-
-### QA Automation Lead
-
-- **URL:** [https://www.principal33.com/job-offers/?personio_job_id=2706442](https://www.principal33.com/job-offers/?personio_job_id=2706442)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** qa, automation, quality assurance
 - **Status:** scraped
 
 ### Engineer or SME with Knowledge in Grundversorgung process in Germany
