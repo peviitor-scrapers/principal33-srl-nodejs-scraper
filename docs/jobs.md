@@ -10,11 +10,11 @@
 | Location | JUD. BRAŞOV, MUN. BRAŞOV, BLD. GĂRII, NR.13A, CLĂDIREA NINE, ET.3 |
 | Website | [https://www.principal33.com](https://www.principal33.com) |
 | Careers | [https://www.principal33.com/careers](https://www.principal33.com/careers) |
-| Last Scraped | 2026-10-25 |
+| Last Scraped | 2026-10-26 |
 
-## Current Job Listings (8)
+## Current Job Listings (7)
 
-_Generated: 2026-10-25T10:25:19.887Z_
+_Generated: 2026-10-26T11:50:58.668Z_
 
 ### Data Engineer
 
@@ -37,14 +37,6 @@ _Generated: 2026-10-25T10:25:19.887Z_
 - **URL:** [https://www.principal33.com/job-offers/?personio_job_id=2567317](https://www.principal33.com/job-offers/?personio_job_id=2567317)
 - **Work Mode:** hybrid
 - **Location:** România
-- **Status:** scraped
-
-### OneStream Dev/Arch
-
-- **URL:** [https://www.principal33.com/job-offers/?personio_job_id=2650008](https://www.principal33.com/job-offers/?personio_job_id=2650008)
-- **Work Mode:** hybrid
-- **Location:** Brasov, Cluj-Napoca, Târgu Mureș
-- **Tags:** onestream, finance, epm, tm1, sap, tagetik, adaptive, epm platforms
 - **Status:** scraped
 
 ### Subject Matter Expert (SME) with Knowledge in Grundversorgung process in Germany
