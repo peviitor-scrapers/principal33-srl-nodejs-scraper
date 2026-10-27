@@ -10,11 +10,11 @@
 | Location | JUD. BRAŞOV, MUN. BRAŞOV, BLD. GĂRII, NR.13A, CLĂDIREA NINE, ET.3 |
 | Website | [https://www.principal33.com](https://www.principal33.com) |
 | Careers | [https://www.principal33.com/careers](https://www.principal33.com/careers) |
-| Last Scraped | 2026-10-26 |
+| Last Scraped | 2026-10-27 |
 
-## Current Job Listings (7)
+## Current Job Listings (8)
 
-_Generated: 2026-10-26T11:50:58.668Z_
+_Generated: 2026-10-27T11:15:45.842Z_
 
 ### Data Engineer
 
@@ -64,6 +64,13 @@ _Generated: 2026-10-26T11:50:58.668Z_
 ### Software Engineer, German Energy Market Processes / Grundversorgung
 
 - **URL:** [https://www.principal33.com/job-offers/?personio_job_id=2850552](https://www.principal33.com/job-offers/?personio_job_id=2850552)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Status:** scraped
+
+### SAP Planon AMS L2 Support Consultant
+
+- **URL:** [https://www.principal33.com/job-offers/?personio_job_id=2860428](https://www.principal33.com/job-offers/?personio_job_id=2860428)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Status:** scraped
