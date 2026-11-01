@@ -10,11 +10,11 @@
 | Location | JUD. BRAŞOV, MUN. BRAŞOV, BLD. GĂRII, NR.13A, CLĂDIREA NINE, ET.3 |
 | Website | [https://www.principal33.com](https://www.principal33.com) |
 | Careers | [https://www.principal33.com/careers](https://www.principal33.com/careers) |
-| Last Scraped | 2026-10-31 |
+| Last Scraped | 2026-11-01 |
 
 ## Current Job Listings (8)
 
-_Generated: 2026-10-31T11:25:39.509Z_
+_Generated: 2026-11-01T12:17:30.669Z_
 
 ### Data Engineer
 
