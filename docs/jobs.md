@@ -10,11 +10,11 @@
 | Location | JUD. BRAŞOV, MUN. BRAŞOV, BLD. GĂRII, NR.13A, CLĂDIREA NINE, ET.3 |
 | Website | [https://www.principal33.com](https://www.principal33.com) |
 | Careers | [https://www.principal33.com/careers](https://www.principal33.com/careers) |
-| Last Scraped | 2026-11-02 |
+| Last Scraped | 2026-11-03 |
 
-## Current Job Listings (8)
+## Current Job Listings (9)
 
-_Generated: 2026-11-02T14:10:17.502Z_
+_Generated: 2026-11-03T13:14:58.764Z_
 
 ### Data Engineer
 
@@ -71,6 +71,13 @@ _Generated: 2026-11-02T14:10:17.502Z_
 ### SAP Planon AMS L2 Support Consultant
 
 - **URL:** [https://www.principal33.com/job-offers/?personio_job_id=2860428](https://www.principal33.com/job-offers/?personio_job_id=2860428)
+- **Work Mode:** hybrid
+- **Location:** România
+- **Status:** scraped
+
+### Data Cleansing Consultant
+
+- **URL:** [https://www.principal33.com/job-offers/?personio_job_id=2867368](https://www.principal33.com/job-offers/?personio_job_id=2867368)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Status:** scraped
